@@ -2,4 +2,3 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 vim.keymap.set("n", "<leader>v", "<C-W>v<cr>")
-vim.keymap.set("n", "<leader>s", "<C-W>s<cr>")
